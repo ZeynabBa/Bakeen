@@ -16,7 +16,7 @@ function Inscription() {
   return (
     <div className="inscription-container">
       <div className="inscription-overlay">
-        <h1 className="app-title">MediApp</h1>
+        <h1 className="app-title">BakeenApp</h1>
         <div className="inscription-content">
           <h2>Inscription</h2>
           <form onSubmit={handleSubmit}>
